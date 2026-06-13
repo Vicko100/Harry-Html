@@ -7,7 +7,7 @@ This project allows you to stream your Android phone's system audio to your PC o
 1.  **Python 3.14+** installed on your PC.
 2.  **Android 10+** phone.
 3.  **ADB (Android Debug Bridge)** installed system-wide.
-4.  **sndcpy** (Standard version) extracted on your PC.
+4.  **sndcpy** from https://github.com/rom1v/sndcpy/releases (Standard version) extracted on your PC and send APK to your phone
 
 ---
 
